@@ -24,6 +24,12 @@ It includes a DLL wrapper/injector (winmm.dll) to disable Nvidia GeForce GPU che
 * Kena: Bridge of Spirits (https://www.nexusmods.com/kenabridgeofspirits/mods/18)
 * Soulstice (https://www.nexusmods.com/soulstice/mods/3)
 * Succubus
+* GTA San Andreas Definitive Edition
+* GTA Vice City Definitive Edition
+* GTA Liberty City Definitive Edition
+* Myst (https://www.nexusmods.com/myst/mods/3)
+* Assetto Corsa Competizione
+* The Last Oricru
 
 ## Installation
 ### Windows 
