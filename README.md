@@ -4,6 +4,7 @@ Drop-in DLSS replacement with FSR 2.0 for various games such as Cyberpunk 2077, 
 It includes a DLL wrapper/injector (winmm.dll) to disable Nvidia GeForce GPU checking, so AMD Radeon GPU users can enjoy the mod.
 
 ## List of Supported Games
+* A Plague Tale Requiem (https://www.nexusmods.com/aplaguetalerequiem/mods/9)
 * Marvel's Spider-Man Remastered (https://www.nexusmods.com/marvelsspidermanremastered/mods/683)
 * Horizon Zero Dawn (https://www.nexusmods.com/horizonzerodawn/mods/133)
 * No Man's Sky (https://www.nexusmods.com/nomanssky/mods/2485)
